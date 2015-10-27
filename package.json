@@ -1,0 +1,29 @@
+{
+  "name": "gulp-url-combo",
+  "version": "1.0.0",
+  "description": "url combo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obingo/gulp-url-combo.git"
+  },
+  "keywords": [
+    "gulp",
+    "combo"
+  ],
+  "author": "xsbchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obingo/gulp-url-combo/issues"
+  },
+  "homepage": "https://github.com/obingo/gulp-url-combo",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "through2": "^2.0.0",
+    "url-combo": "^1.0.0"
+  }
+}
