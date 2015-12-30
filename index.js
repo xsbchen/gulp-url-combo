@@ -11,7 +11,7 @@ var Combo = require('url-combo');
 
 var PluginError = gutil.PluginError;
 
-const PLUGIN_NAME = 'gulp-url-combo';
+var PLUGIN_NAME = 'gulp-url-combo';
 
 module.exports = function (options) {
   options = options || {};
