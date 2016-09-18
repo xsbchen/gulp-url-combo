@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obingo/gulp-url-combo.git"
+    "url": "git+https://github.com/xsbchen/gulp-url-combo.git"
   },
   "keywords": [
     "gulp",
@@ -17,9 +17,9 @@
   "author": "xsbchen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/obingo/gulp-url-combo/issues"
+    "url": "https://github.com/xsbchen/gulp-url-combo/issues"
   },
-  "homepage": "https://github.com/obingo/gulp-url-combo",
+  "homepage": "https://github.com/xsbchen/gulp-url-combo",
   "dependencies": {
     "gulp-util": "^3.0.7",
     "lodash": "^3.10.1",
