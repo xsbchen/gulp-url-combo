@@ -22,7 +22,7 @@
   "homepage": "https://github.com/xsbchen/gulp-url-combo",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "through2": "^2.0.0",
     "url-combo": "^1.0.1"
   }
